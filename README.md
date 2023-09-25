@@ -1,4 +1,4 @@
-# Project Name: Clean Architecture .NET Core Web API
+# Clean Architecture .NET Core Web API
 
 ## Overview
 This project is a robust .NET Core Web API designed with Clean Architecture principles. It employs industry best practices, including the repository pattern, Entity Framework Core migrations, services interfaces and classes, AutoMapper for object mapping, and comprehensive API features such as sorting, paging, exception handling, CORS support, and Swagger documentation. Furthermore, this API has been thoroughly tested using Postman to ensure reliability and functionality.
@@ -21,7 +21,7 @@ This project is a robust .NET Core Web API designed with Clean Architecture prin
 - **Swagger Documentation**: Swagger has been seamlessly integrated into the project, auto-generating API documentation. This simplifies API exploration and testing.
 
 - **Postman Testing**: The API has been rigorously tested using Postman, covering various endpoints and scenarios to ensure its functionality and reliability.
-
+![e-commerceApplication](ecom-api's.PNG)
 ## Getting Started
 To begin using this project, follow these steps:
 
